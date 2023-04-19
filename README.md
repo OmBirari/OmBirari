@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a custom object detection project and a few deep learning projects.<br>I'm looking to collaborate Data science projects for companies.<br>I'm currently learning Natural Language Processing and Cloud services.<br>I'm looking for help in big data environments in various tasks that follow up.<br>Ask me about ML algorithms, also intrigued about cloud computing.<br>I'm quite efficient and I just give it all in.<br> <br>
+I'm looking to collaborate Data science projects for companies.<br>I'm currently learning Natural Language Processing and Cloud services.<br>I'm looking for help in big data environments in various tasks that follow up.<br>Ask me about ML algorithms, also intrigued about cloud computing.<br>I'm quite efficient and I just give it all in.<br> <br>
 
 
 ## 🌐 Socials:
