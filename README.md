@@ -21,9 +21,6 @@ I'm looking to collaborate to Data science projects for companies. <br>I'm curre
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OmBirari&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=OmBirari&icon=0&color=9)](https://visitcount.itsvg.in)
 
