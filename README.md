@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate to Data science projects for companies. <br>I'm currently learning Natural Language Processing and Computer Vision.<br>I'm also a freelancer as a Data Analyst.<br>I'm quite efficient and I just give it all in.
+I'm looking to collaborate to Data science projects for companies. <br>I'm currently learning Natural Language Processing and Computer Vision.<br>I'm also a freelancer as a Data Analyst.<br>I'm efficient and I just give it all in man...
 
 
 ## 🌐 Socials:
