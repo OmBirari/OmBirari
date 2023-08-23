@@ -1,5 +1,5 @@
 # 💫 Welcome to my profile:  😊
-‎ ‎ I am --<br>- Looking to collaborate to Data science projects for companies or individuals. <br>- Currently actively learning NLP and CV and blockchains.<br>- Freelancing as a Data and PowerBI Analyst.
+‎ ‎ I am --<br>- Looking to collaborate to Data science projects for companies or individuals. <br>- Currently actively learning NLP and CV and blockchains.<br>- Freelancing as a Data Analyst.
 
 
 <br>[![](https://visitcount.itsvg.in/api?id=OmBirari&icon=0&color=9)](https://visitcount.itsvg.in)</br>
